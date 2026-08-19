@@ -1,29 +1,30 @@
 # Hi, I'm Mohsin Ali 👋
 
-### Full-Stack Developer | Software Engineer | Open-Source Enthusiast
+### Full-Stack Developer | App Developer | Data Scientist & Machine Learning Engineer | DevOps
 
-I’m a passionate developer who enjoys building modern, scalable, and user-friendly applications. I love turning ideas into real-world products and continuously improving my skills through practical projects.
+I’m a **Full-Stack web/app Developer, Data Scientist, Machine Learning Engineer, and DevOps Engineer** focused on building scalable, intelligent, and production-ready solutions.
 
-- 🔭 I’m currently working on exciting web development projects
-- 🌱 I’m currently learning advanced software development and system design
-- 👯 I’m looking to collaborate on open-source and innovative projects
-- 💬 Ask me about web development, programming, and software projects
-- 📫 Reach me through the social links below
-- ⚡ Fun fact: I enjoy learning new technologies and solving challenging problems
+I work across the full development lifecycle — from designing modern applications to developing **AI/ML models, backend systems, APIs, data-driven solutions, and automated deployment pipelines**.
+
+Currently, I’m focused on strengthening my expertise in **System Design, Machine Learning, AI Engineering, Cloud Infrastructure, DevOps, Distributed Systems, and scalable application development** while building real-world projects that turn ideas into reliable products.
 
 ---
 
 ## 🚀 About Me
 
-I’m focused on creating clean, efficient, and maintainable software. My interests include frontend development, backend engineering, databases, APIs, and deployment.
+I enjoy turning ideas into **real, scalable software** — from data and machine learning models to full-stack applications, mobile apps, APIs, and cloud infrastructure.
+
+I’m interested in the complete engineering journey: **building the product, solving the technical problems behind it, deploying it, and making it reliable in production.**
 
 I believe in:
 
-- Writing clean and reusable code
-- Building responsive and accessible interfaces
-- Learning through real-world projects
-- Collaborating with other developers
-- Improving one step at a time
+* 🧠 **Build to learn** — real projects over endless tutorials
+* ⚙️ **Engineer for scale** — clean architecture, efficient systems, and maintainable code
+* 🤖 **Use AI where it matters** — practical ML and intelligent applications
+* 🚀 **Ship, deploy, improve** — turning projects into working products
+* ☁️ **Think beyond code** — cloud, DevOps, automation, security, and reliability
+* 🔍 **Solve real problems** — technology should create measurable value
+* 📈 **Keep evolving** — continuously learning, experimenting, and improving
 
 ---
 
