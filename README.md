@@ -94,8 +94,8 @@ A brief description of another important project, application, or learning proje
 
 ### 📊 Data Science & Analytics
 - **IBM Data Science Professional Certificate** — IBM
-  - Python • SQL • Data Analysis • Data Visualization • Machine Learning
-  - [View Credential](YOUR_CERTIFICATE_LINK)
+  - Python for Datascience, AI & Development • Databases and SQL • Data Analysis with Python• Data Visualization with Python • IBM Data analyst capstone project
+  - [View Credential](https://coursera.org/share/fe3f44b994fe5ccec22191e97bc2b5b3)
 
 ### 🤖 AI & Machine Learning
 - **Machine Learning / AI Certification** — ISSUER
