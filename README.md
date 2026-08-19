@@ -91,47 +91,48 @@ A brief description of another important project, application, or learning proje
 ---
 
 ## 🎓 Certifications & Professional Learning
+### 🤖 MICROSOFT PYTHON DEVELOPMENT
+- Python for Data Science, AI & Development
+- Python Programming Fundamentals
+- Data Analysis and Visualization with Python
+- Automation and Scripting with Python
+- Web Development with Python
+- Advanced Python Development TechniquesProject Development in Python
+- [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/LTIALD4E2MSP)
 
 ### 📊 IBM Data Analyst Professional Certificate
 
 - **IBM Data Analyst Professional Certificate** — IBM
   - Python for Data Science, AI & Development
-  - • Databases & SQL •
+  -  Databases & SQL
   - Data Analysis with Python
-  - • Data Visualization with Python
-  - • IBM Data Analyst Capstone Project
+  -  Data Visualization with Python
+  -  IBM Data Analyst Capstone Project
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/professional-cert/OX78LYYWA946)
   - <img src="./assets/ibm.png" width="48" alt="IBM" />
 ### 🎓 SPECIALIZATION IN DATA SCIENCE
 
-- **COURSE / SPECIALIZATION NAME** — Coursera
+- **IBM Data Science** — IBM
   - What isDataScience?
--Tools for DataScience
--DataScience Methodology
--Python for DataScience, AI &
-Development
--Python Project for DataScience
--Databasesand SQL for DataScience
-with Python
--DataAnalysis with Python
--DataVisualization with Python
--Machine Learning with Python
--Applied DataScience Capstone
--GenerativeAI: Elevate Your Data
-Science Career
--DataScientist Career Guide and
--Interview Preparation
+  - Tools for DataScience
+  - DataScience Methodology
+  - Python for DataScience, AI & Development
+  - Python Project for DataScience
+  - Databasesand SQL for DataScience with Python
+  - DataAnalysis with Python
+  - DataVisualization with Python
+  - Machine Learning with Python
+  - Applied DataScience Capstone
+  - GenerativeAI: Elevate Your Data Science Career
+  - DataScientist Career Guide and Interview Preparation
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/578G3CBTGMSX)
 - **IBM APPLIED DATA SCIENCE SEPECIALIZATION** — IBM AND UNIVERISTY OF LONDON
-  - • Python for Data Science, AI & Development
-• Python Project for Data Science
-• Data Analysis with Python
-• Data Visualization with
-Python
-• Applied Data Science
+  - Python for Data Science, AI & Development
+  - Python Project for Data Science
+  -  Data Analysis with Python
+  -  Data Visualization with Python
+  -  Applied Data Science
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/MAPBB2NYI8HL)
-
-### 🤖 AI & Machine Learning
 
 - **Machine Learning / AI Certification** — ISSUER
   - Machine Learning • Model Development • AI Applications
