@@ -91,7 +91,7 @@ A brief description of another important project, application, or learning proje
 ---
 
 ## 🎓 Certifications & Professional Learning
-### 🤖 MICROSOFT PYTHON DEVELOPMENT
+### <img src="https://pngimg.com/uploads/microsoft/microsoft_PNG13.png" height="20" alt="Microsoft Logo"> **Microsoft Python Development Specialization**
 - Python for Data Science, AI & Development
 - Python Programming Fundamentals
 - Data Analysis and Visualization with Python
@@ -102,9 +102,7 @@ A brief description of another important project, application, or learning proje
 
 ### 📊 IBM Data Analyst Professional Certificate
 
-- **IBM Data Analyst Professional Certificate** — <a href="https://www.ibm.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white" />
-  </a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="18" alt="IBM Logo">**IBM Data Analyst Professional Certificate**
   - Python for Data Science, AI & Development
   -  Databases & SQL
   - Data Analysis with Python
@@ -114,9 +112,7 @@ A brief description of another important project, application, or learning proje
    
 ### 🎓 SPECIALIZATION IN DATA SCIENCE
 
-- **IBM Data Science** — <a href="https://www.ibm.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white" />
-  </a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="18" alt="IBM Logo">**IBM Data Science**
   - What isDataScience?
   - Tools for DataScience
   - DataScience Methodology
@@ -130,9 +126,7 @@ A brief description of another important project, application, or learning proje
   - GenerativeAI: Elevate Your Data Science Career
   - DataScientist Career Guide and Interview Preparation
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/578G3CBTGMSX)
-- **IBM APPLIED DATA SCIENCE SEPECIALIZATION** — <a h ref="https://www.ibm.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white" />
-  </a> AND UNIVERISTY OF LONDON
+- * <img src="https://img.shields.io/badge/IBM-%230529AD.svg?style=for-the-badge&logo=ibm&logoColor=white" height="22"> & <img src="https://img.shields.io/badge/University%20of%20London-%238A1538.svg?style=for-the-badge&logo=academia&logoColor=white" height="22"> **IBM APPLIED DATA SCIENCE SEPECIALIZATION**
   - Python for Data Science, AI & Development
   - Python Project for Data Science
   -  Data Analysis with Python
@@ -160,6 +154,5 @@ A brief description of another important project, application, or learning proje
 </p>
 
 ---
-
 
 ⭐ From [MohsinAli-1](https://github.com/MohsinAli-1)
