@@ -103,8 +103,8 @@ A brief description of another important project, application, or learning proje
 
 ### 📊 IBM Data Analyst Professional Certificate
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="18" alt="IBM Logo">**IBM Data Analyst Professional Certificate**
-  **KEY SKILLS**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="18" alt="IBM Logo">**Data Analyst Professional Certificate**
+- **KEY SKILLS**
   - `Python for Data Science, AI & Development`
   - `Excel and advance excel`
   - `PowerBi`
@@ -130,7 +130,8 @@ A brief description of another important project, application, or learning proje
   - `GenerativeAI: Elevate Your Data Science Career`
   - `DataScientist Career Guide and Interview Preparation`
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/578G3CBTGMSX)
-- * <img src="https://img.shields.io/badge/IBM-%230529AD.svg?style=for-the-badge&logo=ibm&logoColor=white" height="22"> & <img src="https://img.shields.io/badge/University%20of%20London-%238A1538.svg?style=for-the-badge&logo=academia&logoColor=white" height="22"> **IBM APPLIED DATA SCIENCE SEPECIALIZATION**
+- * <img src="https://img.shields.io/badge/IBM-%230529AD.svg?style=for-the-badge&logo=ibm&logoColor=white" height="22"> & <img src="https://img.shields.io/badge/University%20of%20London-%238A1538.svg?style=for-the-badge&logo=academia&logoColor=white" height="22"> 
+- **APPLIED DATA SCIENCE SEPECIALIZATION**
   -  `Python for Data Science, AI & Development`
   -  `Python Project for Data Science`
   -  `Data Analysis with Python`
@@ -144,17 +145,11 @@ A brief description of another important project, application, or learning proje
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="www.linkedin.com/in/mohsin-ali-9b1971397">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:mohsinaliy7612@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo= About.me&logoColor=white" />
   </a>
 </p>
 
