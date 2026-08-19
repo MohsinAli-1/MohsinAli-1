@@ -1,4 +1,4 @@
-# Hi, I'm Mohsin Ali 👋
+# Mohsin Ali
 
 ### Full-Stack Developer | App Developer | Data Scientist & Machine Learning Engineer | DevOps
 
