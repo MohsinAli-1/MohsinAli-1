@@ -102,19 +102,21 @@ A brief description of another important project, application, or learning proje
 
 ### 📊 IBM Data Analyst Professional Certificate
 
-- **IBM Data Analyst Professional Certificate** — IBM
+- **IBM Data Analyst Professional Certificate** — <a href="https://www.ibm.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
   - Python for Data Science, AI & Development
   -  Databases & SQL
   - Data Analysis with Python
   -  Data Visualization with Python
   -  IBM Data Analyst Capstone Project
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/professional-cert/OX78LYYWA946)
-   <a href="https://www.ibm.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white" />
-  </a>
+   
 ### 🎓 SPECIALIZATION IN DATA SCIENCE
 
-- **IBM Data Science** — IBM
+- **IBM Data Science** — <a href="https://www.ibm.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
   - What isDataScience?
   - Tools for DataScience
   - DataScience Methodology
@@ -128,7 +130,9 @@ A brief description of another important project, application, or learning proje
   - GenerativeAI: Elevate Your Data Science Career
   - DataScientist Career Guide and Interview Preparation
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/578G3CBTGMSX)
-- **IBM APPLIED DATA SCIENCE SEPECIALIZATION** — IBM AND UNIVERISTY OF LONDON
+- **IBM APPLIED DATA SCIENCE SEPECIALIZATION** — <a h ref="https://www.ibm.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a> AND UNIVERISTY OF LONDON
   - Python for Data Science, AI & Development
   - Python Project for Data Science
   -  Data Analysis with Python
