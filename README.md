@@ -133,24 +133,16 @@ A brief description of another important project, application, or learning proje
   -  Data Visualization with Python
   -  Applied Data Science
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/MAPBB2NYI8HL)
+## 🛠️ Tools and Technologies
 
-- **Machine Learning / AI Certification** — ISSUER
-  - Machine Learning • Model Development • AI Applications
-  - [🔗 View Credential](YOUR_CERTIFICATE_LINK)
-
-### ☁️ DevOps & Cloud
-
-- **DevOps / Cloud Certification** — ISSUER
-  - Docker • CI/CD • Cloud Infrastructure • Deployment
-  - [🔗 View Credential](YOUR_CERTIFICATE_LINK)
-
-### 📦 Product Management
-
-- **IBM Product Management Professional Certificate** — IBM
-  - Product Strategy • Agile • Product Development • Product Lifecycle
-  - [🔗 View Credential](YOUR_CERTIFICATE_LINK)
-  - <img src="./assets/ibm.png" width="48" alt="IBM" />
-
+<p>
+  <img src="https://cdn.simpleicons.org/ibm/052FAD" width="45" height="45" alt="IBM">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="HTML5">
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="CSS3">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="Python">
+  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub">
+</p>
 ---
 
 ## 🤝 Connect With Me
