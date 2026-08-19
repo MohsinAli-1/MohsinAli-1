@@ -1,85 +1,141 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+I'm+Your+Name+👋;Full+Stack+Developer;AI+%26+Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
+# Hi, I'm Mohsin Ali 👋
 
-<br />
+### Full-Stack Developer | Software Engineer | Open-Source Enthusiast
 
-<!-- SHORT BIO -->
-<p align="center">
-  🚀 Passioned software developer focused on building scalable web applications and exploring modern AI technologies.<br/>
-  💻 Currently working on exciting open-source projects & learning advanced system design.
-</p>
+I’m a passionate developer who enjoys building modern, scalable, and user-friendly applications. I love turning ideas into real-world products and continuously improving my skills through practical projects.
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/></a>
-</p>
+- 🔭 I’m currently working on exciting web development projects
+- 🌱 I’m currently learning advanced software development and system design
+- 👯 I’m looking to collaborate on open-source and innovative projects
+- 💬 Ask me about web development, programming, and software projects
+- 📫 Reach me through the social links below
+- ⚡ Fun fact: I enjoy learning new technologies and solving challenging problems
 
 ---
 
-### ⚡ About Me
+## 🚀 About Me
 
-* 🔭 **I’m currently working on:** [Your Main Project / Startup]
-* 🌱 **I’m currently learning:** Next.js 14, TypeScript & AI Integration
-* 💬 **Ask me about:** React, Node.js, Python, and Web Architecture
-* ⚡ **Fun fact:** I write code faster when fueled by coffee ☕
+I’m focused on creating clean, efficient, and maintainable software. My interests include frontend development, backend engineering, databases, APIs, and deployment.
+
+I believe in:
+
+- Writing clean and reusable code
+- Building responsive and accessible interfaces
+- Learning through real-world projects
+- Collaborating with other developers
+- Improving one step at a time
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Technologies and Tools
 
-#### **Languages & Frameworks**
+### Programming Languages
+
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
 </p>
 
-#### **Databases & Tools**
+### Frontend Development
+
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### Databases and Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 📌 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</div>
+### 🔹 Project One
 
-<br/>
+A brief description of your project, its main purpose, and the technologies used.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Streak Stats" />
-</div>
+**Technologies:** React, Node.js, MongoDB
+
+[View Project](https://github.com/MohsinAli-1)
+
+### 🔹 Project Two
+
+A brief description of your second project and the problem it solves.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[View Project](https://github.com/MohsinAli-1)
+
+### 🔹 Project Three
+
+A brief description of another important project, application, or learning project.
+
+**Technologies:** Python, Django, PostgreSQL
+
+[View Project](https://github.com/MohsinAli-1)
 
 ---
 
-### 🤝 Connect with Me
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohsinAli-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinAli-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <i>"Driven by curiosity, fueled by code." 🌟</i>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAli-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohsinAli-1&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo= About.me&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> “Great things are built one line of code at a time.”
+
+---
+
+⭐ From [MohsinAli-1](https://github.com/MohsinAli-1)
