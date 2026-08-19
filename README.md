@@ -95,7 +95,7 @@ A brief description of another important project, application, or learning proje
 ### 📊IBM Data Analyst Professional Certificate
 - **IBM Data Analyst Professional Certificate** — IBM
   - Python for Datascience, AI & Development • Databases and SQL • Data Analysis with Python• Data Visualization with Python • IBM Data analyst capstone project
-  - [View Credential](https://coursera.org/share/fe3f44b994fe5ccec22191e97bc2b5b3)
+  - [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/OX78LYYWA946)
  <a href="https://www.coursera.org/account/accomplishments/specialization/OX78LYYWA946">
   <img src="https://cdn.simpleicons.org/ibm" width="48" height="48" alt="IBM" />
 </a>
