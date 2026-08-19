@@ -90,27 +90,27 @@ A brief description of another important project, application, or learning proje
 
 ---
 
-## 📊 GitHub Statistics
+## 🎓 Certifications & Professional Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinAli-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+### 📊 Data Science & Analytics
+- **IBM Data Science Professional Certificate** — IBM
+  - Python • SQL • Data Analysis • Data Visualization • Machine Learning
+  - [View Credential](YOUR_CERTIFICATE_LINK)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinAli-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🤖 AI & Machine Learning
+- **Machine Learning / AI Certification** — ISSUER
+  - Machine Learning • Model Development • AI Applications
+  - [View Credential](YOUR_CERTIFICATE_LINK)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAli-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### ☁️ DevOps & Cloud
+- **DevOps / Cloud Certification** — ISSUER
+  - Docker • CI/CD • Cloud • Deployment
+  - [View Credential](YOUR_CERTIFICATE_LINK)
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsinAli-1&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+### 📦 Product Management
+- **IBM Product Management Professional Certificate** — IBM
+  - Product Strategy • Agile • Product Development • Product Lifecycle
+  - [View Credential](YOUR_CERTIFICATE_LINK)
 
 ---
 
@@ -133,10 +133,5 @@ A brief description of another important project, application, or learning proje
 
 ---
 
-## 💡 Developer Quote
-
-> “Great things are built one line of code at a time.”
-
----
 
 ⭐ From [MohsinAli-1](https://github.com/MohsinAli-1)
