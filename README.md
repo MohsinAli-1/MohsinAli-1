@@ -92,26 +92,63 @@ A brief description of another important project, application, or learning proje
 
 ## 🎓 Certifications & Professional Learning
 
-### 📊IBM Data Analyst Professional Certificate
+### 📊 IBM Data Analyst Professional Certificate
+
 - **IBM Data Analyst Professional Certificate** — IBM
-  - Python for Datascience, AI & Development • Databases and SQL • Data Analysis with Python• Data Visualization with Python • IBM Data analyst capstone project
-  - [View Credential](https://www.coursera.org/account/accomplishments/professional-cert/OX78LYYWA946)
- <img src="./assets/ibm.png" width="48" alt="IBM" />
+  - Python for Data Science, AI & Development
+  - • Databases & SQL •
+  - Data Analysis with Python
+  - • Data Visualization with Python
+  - • IBM Data Analyst Capstone Project
+  - [🔗 View Credential](https://www.coursera.org/account/accomplishments/professional-cert/OX78LYYWA946)
+  - <img src="./assets/ibm.png" width="48" alt="IBM" />
+### 🎓 SPECIALIZATION IN DATA SCIENCE
+
+- **COURSE / SPECIALIZATION NAME** — Coursera
+  - What isDataScience?
+-Tools for DataScience
+-DataScience Methodology
+-Python for DataScience, AI &
+Development
+-Python Project for DataScience
+-Databasesand SQL for DataScience
+with Python
+-DataAnalysis with Python
+-DataVisualization with Python
+-Machine Learning with Python
+-Applied DataScience Capstone
+-GenerativeAI: Elevate Your Data
+Science Career
+-DataScientist Career Guide and
+-Interview Preparation
+  - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/578G3CBTGMSX)
+- **IBM APPLIED DATA SCIENCE SEPECIALIZATION** — IBM AND UNIVERISTY OF LONDON
+  - • Python for Data Science, AI & Development
+• Python Project for Data Science
+• Data Analysis with Python
+• Data Visualization with
+Python
+• Applied Data Science
+  - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/MAPBB2NYI8HL)
 
 ### 🤖 AI & Machine Learning
+
 - **Machine Learning / AI Certification** — ISSUER
   - Machine Learning • Model Development • AI Applications
-  - [View Credential](YOUR_CERTIFICATE_LINK)
+  - [🔗 View Credential](YOUR_CERTIFICATE_LINK)
 
 ### ☁️ DevOps & Cloud
+
 - **DevOps / Cloud Certification** — ISSUER
-  - Docker • CI/CD • Cloud • Deployment
-  - [View Credential](YOUR_CERTIFICATE_LINK)
+  - Docker • CI/CD • Cloud Infrastructure • Deployment
+  - [🔗 View Credential](YOUR_CERTIFICATE_LINK)
 
 ### 📦 Product Management
+
 - **IBM Product Management Professional Certificate** — IBM
   - Product Strategy • Agile • Product Development • Product Lifecycle
-  - [View Credential](YOUR_CERTIFICATE_LINK)
+  - [🔗 View Credential](YOUR_CERTIFICATE_LINK)
+  - <img src="./assets/ibm.png" width="48" alt="IBM" />
 
 ---
 
