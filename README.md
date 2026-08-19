@@ -109,7 +109,7 @@ A brief description of another important project, application, or learning proje
   -  Data Visualization with Python
   -  IBM Data Analyst Capstone Project
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/professional-cert/OX78LYYWA946)
-  - <img src="./assets/ibm.png" width="48" alt="IBM" />
+  - <img src="https://www.google.com/search?q=IBM+Icons&sca_esv=cf5c3a640caff83a&udm=2&biw=1280&bih=585&sxsrf=APpeQntaYuqFp_ZkmmPN_2qBB9tiESqILQ%3A1787138450621&ei=kpGFavK0JbKKkdUPm9PkOA&ved=0ahUKEwjyxY3EyayWAxUyRaQEHZspGQcQ4dUDCBE&uact=5&oq=IBM+Icons&gs_lp=Egtnd3Mtd2l6LWltZyIJSUJNIEljb25zMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgYQABgFGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeSKkOUNcEWNcEcAF4AJABAJgBuAOgAbgDqgEDNC0xuAEDyAEA-AEBmAICoALAA8ICBxAjGMkCGCeYAwCIBgGSBwUxLjQtMaAHvwSyBwM0LTG4B7wDwgcFMC4xLjHIBwaACAE&sclient=gws-wiz-img#sv=CAMSURoyKhBlLUdWSXI4SHFZRC1kRzNNMg5HVklyOEhxWUQtZEczTToOajl6QUlCMUdFQmxEb00gBCoXCgFzEhBlLUdWSXI4SHFZRC1kRzNNGAEwARgHIOCb5TdKCBABGAEgASgB" width="48" alt="IBM" />
 ### 🎓 SPECIALIZATION IN DATA SCIENCE
 
 - **IBM Data Science** — IBM
@@ -133,16 +133,7 @@ A brief description of another important project, application, or learning proje
   -  Data Visualization with Python
   -  Applied Data Science
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/MAPBB2NYI8HL)
-## 🛠️ Tools and Technologies
 
-<p>
-  <img src="https://cdn.simpleicons.org/ibm/052FAD" width="45" height="45" alt="IBM">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="HTML5">
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="CSS3">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="Python">
-  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub">
-</p>
 ---
 
 ## 🤝 Connect With Me
