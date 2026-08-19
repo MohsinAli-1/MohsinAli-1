@@ -92,46 +92,51 @@ A brief description of another important project, application, or learning proje
 
 ## 🎓 Certifications & Professional Learning
 ### <img src="https://pngimg.com/uploads/microsoft/microsoft_PNG13.png" height="20" alt="Microsoft Logo"> **Microsoft Python Development Specialization**
-- Python for Data Science, AI & Development
-- Python Programming Fundamentals
-- Data Analysis and Visualization with Python
-- Automation and Scripting with Python
-- Web Development with Python
-- Advanced Python Development TechniquesProject Development in Python
+**KEY SKILLS**
+- `Python for Data Science, AI & DevelopmenT`
+- `Python Programming Fundamentals`
+- `Data Analysis and Visualization with Python`
+- `Automation and Scripting with Python`
+- `Web Development with Python`
+- `Advanced Python Development TechniquesProject Development in Python`
 - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/LTIALD4E2MSP)
 
 ### 📊 IBM Data Analyst Professional Certificate
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="18" alt="IBM Logo">**IBM Data Analyst Professional Certificate**
-  - Python for Data Science, AI & Development
-  -  Databases & SQL
-  - Data Analysis with Python
-  -  Data Visualization with Python
-  -  IBM Data Analyst Capstone Project
+  **KEY SKILLS**
+  - `Python for Data Science, AI & Development`
+  - `Excel and advance excel`
+  - `PowerBi`
+  - `Databases & SQL`
+  - `Data Analysis with Python`
+  - `Data Visualization with Python`
+  - `IBM Data Analyst Capstone Project`
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/professional-cert/OX78LYYWA946)
    
 ### 🎓 SPECIALIZATION IN DATA SCIENCE
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="18" alt="IBM Logo">**IBM Data Science**
-  - What isDataScience?
-  - Tools for DataScience
-  - DataScience Methodology
-  - Python for DataScience, AI & Development
-  - Python Project for DataScience
-  - Databasesand SQL for DataScience with Python
-  - DataAnalysis with Python
-  - DataVisualization with Python
-  - Machine Learning with Python
-  - Applied DataScience Capstone
-  - GenerativeAI: Elevate Your Data Science Career
-  - DataScientist Career Guide and Interview Preparation
+  - `DataScience all fundamentals`
+  - `Tools for DataScience`
+  - `DataScience Methodology`
+  - `Python for DataScience, AI & Development`
+  - `Python Project for DataScience`
+  - `Databasesand SQL for DataScience with Python`
+  - `DataAnalysis with Python`
+  - `DataVisualization with Python`
+  - `Machine Learning with Python`
+  - `Applied DataScience Capstone`
+  - `GenerativeAI: Elevate Your Data Science Career`
+  - `DataScientist Career Guide and Interview Preparation`
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/578G3CBTGMSX)
 - * <img src="https://img.shields.io/badge/IBM-%230529AD.svg?style=for-the-badge&logo=ibm&logoColor=white" height="22"> & <img src="https://img.shields.io/badge/University%20of%20London-%238A1538.svg?style=for-the-badge&logo=academia&logoColor=white" height="22"> **IBM APPLIED DATA SCIENCE SEPECIALIZATION**
-  - Python for Data Science, AI & Development
-  - Python Project for Data Science
-  -  Data Analysis with Python
-  -  Data Visualization with Python
-  -  Applied Data Science
+  -  `Python for Data Science, AI & Development`
+  -  `Python Project for Data Science`
+  -  `Data Analysis with Python`
+  -  `Data Visualization with Python`
+  -  `Applied Data Science`
+  -  `Data Science captson project` 
   - [🔗 View Credential](https://www.coursera.org/account/accomplishments/specialization/MAPBB2NYI8HL)
 
 ---
